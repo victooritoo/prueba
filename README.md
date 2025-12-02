@@ -4,7 +4,7 @@ test para aprender giht
 
 victor gonzalez castellanos
 
-modifico en local
+modifico en remoto
 
 cambio dos en local
 
